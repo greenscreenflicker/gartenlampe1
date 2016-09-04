@@ -1,0 +1,220 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Do 10 Jul 2014 00:42:58 CEST
+
+BeginCmp
+TimeStamp = /533866E0;
+Reference = C1;
+ValeurCmp = 1u 0603 50V;
+IdModule  = ResCap:SMD-C-0603|1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /533866C6;
+Reference = C2;
+ValeurCmp = 1u 0603 50V;
+IdModule  = ResCap:SMD-C-0603|1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /533866BB;
+Reference = C3;
+ValeurCmp = 1u 0603 50V;
+IdModule  = ResCap:SMD-C-0603|1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /533866A0;
+Reference = C4;
+ValeurCmp = 1u 0603 50V;
+IdModule  = ResCap:SMD-C-0603|1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338666A;
+Reference = C5;
+ValeurCmp = 10u 1206 50V;
+IdModule  = ResCap:SMD-1206-PWR;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385F20;
+Reference = D15;
+ValeurCmp = DB2W40100L;
+IdModule  = DiodesTransistors:SOD323-W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53386C77;
+Reference = D16;
+ValeurCmp = ZENER-8.2V;
+IdModule  = DiodesTransistors:SOD323-W;
+EndCmp
+
+BeginCmp
+TimeStamp = /533D3DAA;
+Reference = F1;
+ValeurCmp = FUSE_2410_10A;
+IdModule  = ResCap:SMD-R-2010|3225;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C86;
+Reference = L1;
+ValeurCmp = INDUCTOR_SMALL;
+IdModule  = MichaelLib:ind-VLP8040;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385BFF;
+Reference = La1;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C2C;
+Reference = La2;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C44;
+Reference = La3;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C5C;
+Reference = La4;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385BF4;
+Reference = Lb1;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C26;
+Reference = Lb2;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C3E;
+Reference = Lb3;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C56;
+Reference = Lb4;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385BE2;
+Reference = Lc1;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C20;
+Reference = Lc2;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C38;
+Reference = Lc3;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C50;
+Reference = Lc4;
+ValeurCmp = LED;
+IdModule  = PwrLED:LUXEON3020;
+EndCmp
+
+BeginCmp
+TimeStamp = /53386C49;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = Conn:CONN_2x_5.08;
+EndCmp
+
+BeginCmp
+TimeStamp = /53540F10;
+Reference = Q1;
+ValeurCmp = DMN3404L;
+IdModule  = DiodesTransistors:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /535381BE;
+Reference = R1;
+ValeurCmp = 1-1206;
+IdModule  = ResCap:SMD-R-1206|3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B586B6;
+Reference = R2;
+ValeurCmp = FerriteBead;
+IdModule  = ResCap:SMD-R-1206|3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385970;
+Reference = R9;
+ValeurCmp = 1-1206;
+IdModule  = ResCap:SMD-R-1206|3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C1A;
+Reference = R10;
+ValeurCmp = 1-1206;
+IdModule  = ResCap:SMD-R-1206|3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C32;
+Reference = R11;
+ValeurCmp = 1-1206;
+IdModule  = ResCap:SMD-R-1206|3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385C4A;
+Reference = R12;
+ValeurCmp = 1-1206;
+IdModule  = ResCap:SMD-R-1206|3216;
+EndCmp
+
+BeginCmp
+TimeStamp = /53386ECA;
+Reference = R13;
+ValeurCmp = 1M;
+IdModule  = ResCap:SMD-R-0603|1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /53542246;
+Reference = U1;
+ValeurCmp = AL8805;
+IdModule  = DiodesTransistors:SOT23-5;
+EndCmp
+
+EndListe
